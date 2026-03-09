@@ -1,0 +1,104 @@
+/* ======== Estilo Windows 98 ======== */
+body {
+    font-family: "Tahoma", "MS Sans Serif", sans-serif;
+    background-color: #C0C0C0;
+    margin: 0;
+    padding: 20px;
+    color: #000;
+}
+
+.contenedor {
+    background-color: #C0C0C0;
+    border: 2px solid #808080;
+    padding: 15px;
+    width: 600px;
+    margin: 30px auto;
+    box-shadow: 2px 2px 0 #FFFFFF inset, -2px -2px 0 #808080 inset;
+}
+
+h1, h2 {
+    background-color: #000080;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    border: 2px solid #FFFFFF;
+    text-align: center;
+    box-shadow: inset -2px -2px 0 #808080, inset 2px 2px 0 #FFFFFF;
+}
+
+form {
+    background-color: #C0C0C0;
+    border: 2px solid #808080;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-shadow: inset -2px -2px 0 #FFFFFF, inset 2px 2px 0 #808080;
+}
+
+label {
+    display: inline-block;
+    width: 180px;
+    margin-bottom: 6px;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+    width: 200px;
+    padding: 3px;
+    border: 2px solid #808080;
+    background-color: #FFFFFF;
+    box-shadow: inset -2px -2px 0 #FFFFFF, inset 2px 2px 0 #808080;
+    font-size: 13px;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus {
+    outline: none;
+    background-color: #F0F0F0;
+}
+
+input[type="submit"],
+button {
+    background-color: #C0C0C0;
+    border: 2px solid #808080;
+    box-shadow: -1px -1px 0 #FFFFFF, 1px 1px 0 #404040;
+    padding: 4px 10px;
+    margin-top: 10px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+input[type="submit"]:active,
+button:active {
+    box-shadow: inset 1px 1px 0 #808080, inset -1px -1px 0 #FFFFFF;
+}
+
+.vehiculo-info {
+    background-color: #E0E0E0;
+    padding: 8px;
+    margin: 10px 0;
+    border: 2px solid #808080;
+    box-shadow: inset -2px -2px 0 #FFFFFF, inset 2px 2px 0 #808080;
+}
+
+pre {
+    font-family: "Courier New", monospace;
+    background-color: #FFFFFF;
+    border: 1px solid #808080;
+    padding: 5px;
+    margin: 5px 0;
+    box-shadow: inset -2px -2px 0 #FFFFFF, inset 2px 2px 0 #808080;
+    font-size: 
+    13px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+select,
+input,
+button {
+    font-family: "Tahoma", "MS Sans Serif", sans-serif;
+}

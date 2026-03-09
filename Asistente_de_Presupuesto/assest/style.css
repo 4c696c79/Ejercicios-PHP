@@ -1,0 +1,167 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+body{
+background-image: url(img/bliss-windows-xp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+h1{
+margin: 20px 0;
+}
+.contenedor{
+    background-color: rgba(255, 255, 255, 0.7);
+    margin: 30px auto; 
+    width: 80%;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor .columna {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* para centrar horizontalmente */
+    gap: 10px;
+    margin: 10px 0;
+}
+.contenedor .columna input {
+    display: block;
+    margin: 0 auto;
+}
+
+.contenedor .columna h3 {
+    text-align: center;
+    width: 50%;
+}
+.contenedor input[type="number"], select{
+    transition: all 0.3s ease;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    width: 60%;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2rem;
+} 
+.contenedor input[type = "number"]:hover{
+    transition: all 0.3s ease;
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+    box-shadow: 0 0px 5px rgb(0, 0, 0, 1);
+    font-size: 1.4rem;
+}
+.contenedor  select:hover{
+    transition: all 0.3s ease;
+    width: 65%;
+    background-color: rgb(62, 62, 62);
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0px 5px rgb(0, 0, 0, 1);
+    font-size: 1.4rem;
+}
+.contenedor  option{
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    border-radius: 16px;
+}
+.contenedor .checkboxes{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius:16px;
+
+}
+
+.contenedor input[type="checkbox"], label{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.contenedor .checkboxes label{
+    width: auto;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+.contenedor label:hover{
+    transition: all 0.3s ease;
+    color: #00afce;
+    text-shadow: 0 0 1px rgb(0, 0, 0, 1);
+    transform: scale(1.1);
+
+}
+.contenedor input[type="submit"]{
+    transition: all 0.3s ease   ;
+    background-color: #0d8ba1;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 40%;
+    margin-top: 10px;
+}
+.contenedor input[type="submit"]:hover{
+    transition: all 1s ease;
+    background-color: #0d8ba1;
+    box-shadow: 0 0px 20px rgb(13, 139, 161);
+    width: 60%;
+}
+
+.resultado {
+    background-color: rgba(255, 255, 255, 0.7); /* fondo blanco translúcido un poco más opaco */
+    color: #222; /* texto oscuro para buen contraste */
+    margin: 20px auto;
+    padding: 25px 30px;
+    width: 80%;
+    border-radius: 20px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15); /* sombra suave para profundidad */
+    font-size: 1.4rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.resultado strong {
+    color: #0d8ba1; /* azul suave para énfasis */
+    font-weight: bolder;
+}
+
+
+footer{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}

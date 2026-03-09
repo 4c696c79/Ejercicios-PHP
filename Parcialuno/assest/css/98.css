@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+
+body {
+    background: #c3c3c3;
+    color: #000;
+    padding: 5%;
+}
+
+.concuchara {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.listaInvitados,
+.formIngreso {
+    background-color: #e0e0e0;
+    border: 3px double #000080;
+    padding: 20px;
+    width: 45%;
+    min-width: 320px;
+    box-shadow: inset 4px 4px #ffffff, inset -4px -4px #7d7d7d;
+    color: #000080;
+}
+
+.listaInvitados h2,
+.formIngreso h2 {
+    background-color: #000080;
+    color: #ffffff;
+    padding: 8px;
+    font-size: 1.2em;
+    text-align: center;
+    border-bottom: 2px solid #fff;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+input[type=search],
+input[type=text],
+input[type=number] {
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+    padding: 6px;
+    margin: 10px 0;
+    width: 90%;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: inset -2px -2px #ccc, inset 2px 2px #333;
+    cursor: pointer;
+
+}
+
+input[type=radio] {
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+table {
+    width: 100%;
+    border: 2px solid #000;
+    border-collapse: collapse;
+    background-color: #fff;
+    margin-top: 15px;
+}
+
+table th,
+table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+    font-size: 14px;
+}
+
+table a {
+    width: 100%;
+    background-color: #e0e0e0;
+    border: 2px outset #aaa;
+    padding: 2px 6px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+table a:hover {
+    background-color: #c0c0c0;
+    border: 2px inset #444;
+}
+
+table img {
+    width: 50px;
+    height: 50px;
+}
+
+.formIngreso .btm {
+    background-color: #dcdcdc;
+    border: 2px outset #fff;
+    padding: 6px 16px;
+    margin-top: 15px;
+    cursor: pointer;
+    color: #000;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 2px 2px #7a7a7a;
+    text-align: center;
+}
+
+.formIngreso .btm:hover {
+    background-color: #a0a0a0;
+    border: 2px inset #444;
+}
+
+.formIngreso .mensaje {
+    margin-top: 6%;
+    font-weight: 500;
+    color: #000080;
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: #000080;
+    background-color: #d0d0ff;
+    padding: 10px;
+    border-top: 2px solid #000;
+    font-weight: bold;
+}
+
+.btmTema {
+    background-color: #dcdcdc;
+    border: 2px outset #fff;
+    padding: 6px 16px;
+    margin-top: 15px;
+    cursor: pointer;
+    color: #000;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 2px 2px #7a7a7a;
+    text-align: center;
+
+}
+
+.btmTema:hover {
+    background-color: #a0a0a0;
+    border: 2px inset #444;
+}
+
+
+@media (max-width: 1024px) {
+    .hola {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .listaInvitados,
+    .formIngreso {
+        width: 90%;
+        margin-bottom: 30px;
+    }
+
+    .formIngreso input[type=text],
+    .formIngreso input[type=number] {
+        width: 95%;
+    }
+}

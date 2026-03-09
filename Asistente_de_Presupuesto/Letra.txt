@@ -1,0 +1,56 @@
+Actividad: Mini Proyecto - Asistente de Presupuesto para Eventos en PHP
+El programa deberá:
+    - Recibir desde un formulario:
+    - Monto disponible.
+    - Número de adultos y costo por adulto.
+    - Número de niños y costo por niño.
+    - Servicios extra (DJ, fotógrafo, pantalla).
+
+Calcular:
+    -Costo base de invitados.
+    -Costo adicional de los servicios seleccionados.
+    -Costo total.
+
+Evaluar:
+    -Si el presupuesto alcanza o no (usando if/else).
+    -Dar una recomendación de tipo de evento (usando switch).
+
+Mostrar:
+    -Resultado
+    -Recomendación.
+    -Detalle de cada gasto (usando bucles).
+    -Total final.
+
+Herramientas que deben usar
+    -PHP: manejo de variables, if/else, switch, for, arrays y $_POST.
+    -HTML: formularios con input (number, checkbox).
+    -CSS: diseño básico (colores, clases .ok y .error).
+
+Servidor local (XAMPP).
+
+Pasos sugeridos
+    -Crear archivo index.php con el formulario y la lógica PHP.
+    -Probar con diferentes entradas (monto bajo, alto, sin servicios, con todos los servicios).
+    -Revisar cómo se construye $detalleGastos paso a paso.
+
+Mejoras que deben realizar los estudiantes
+Los alumnos no solo deben reproducir el código, sino mejorarlo. Algunas propuestas:
+
+Validación de datos:
+    -No permitir valores negativos.
+    -Mensaje si el usuario deja un campo vacío.
+
+Estilo visual con CSS:
+    -Diferenciar claramente mensajes de error y éxito.
+    -Usar un diseño más atractivo para el formulario.
+
+Nueva funcionalidad:
+    -Calcular el costo por persona promedio.
+    -Permitir elegir tipo de menú (económico, estándar, premium) con un select.
+    -Guardar los cálculos en un archivo .txt (registro de presupuestos).
+
+Entregables
+    -Archivo index.php funcional.
+    -Hoja de estilos style.css.
+    -Captura de pantalla mostrando un ejemplo de cálculo.
+    -Archivo registro.txt con presupuestos guardados

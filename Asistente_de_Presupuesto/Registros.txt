@@ -1,0 +1,299 @@
+Fecha de creación 28/08/2025 01:19:27
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 5 
+Costo por niño: 3 
+Costo invitados: 80 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 104 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 01:20:06
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 5 
+Costo por niño: 3 
+Costo invitados: 80 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 104 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:17:38
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 5 
+Costo por niño: 3 
+Costo invitados: 80 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 104 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:18:03
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 5 
+Costo por niño: 3 
+Costo invitados: 80 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 104 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:18:32
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 5 
+Costo por niño: 5 
+Costo invitados: 100 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 130 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:47:09
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 5 
+Costo por niño: 3 
+Costo invitados: 80 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 104 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:47:37
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 20 
+Costo por adulto: 10 
+Costo por niño: 10 
+Costo invitados: 300 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 390 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:48:25
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 20 
+Costo por adulto: 20 
+Costo por niño: 20 
+Costo invitados: 600 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 780 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:48:42
+Presupuesto: 100 
+Cantidad de adultos: 10 
+Cantidad de niños: 20 
+Costo por adulto: 20 
+Costo por niño: 20 
+Costo invitados: 600 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 780 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: No
+
+Fecha de creación 28/08/2025 03:49:04
+Presupuesto: 100 
+Cantidad de adultos: 1 
+Cantidad de niños: 1 
+Costo por adulto: 1 
+Costo por niño: 1 
+Costo invitados: 2 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 2.6 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 03:54:40
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 10 
+Costo por niño: 19 
+Costo invitados: 290 
+Costo adicional: 1100 
+Tipo de servicio: estandar 
+Costo total: 1807 
+Recomendación: Evento mediano, disfruten \(￣︶￣*\)) 
+Presupuesto suficiente: No
+
+Fecha de creación 28/08/2025 03:56:42
+Presupuesto: 100 
+Cantidad de adultos: 10 
+Cantidad de niños: 20 
+Costo por adulto: 20 
+Costo por niño: 20 
+Costo invitados: 600 
+Costo adicional: 0 
+Tipo de servicio: premium 
+Costo total: 900 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: No
+
+Fecha de creación 28/08/2025 03:58:10
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 10 
+Costo por niño: 10 
+Costo invitados: 200 
+Costo adicional: 1500 
+Tipo de servicio: economico 
+Costo total: 1870 
+Recomendación: Evento mediano, disfruten \(￣︶￣*\)) 
+Presupuesto suficiente: No
+
+Fecha de creación 28/08/2025 04:17:03
+Presupuesto: 100000 
+Cantidad de adultos: 10 
+Cantidad de niños: 10 
+Costo por adulto: 10 
+Costo por niño: 10 
+Costo invitados: 200 
+Costo adicional: 3400 
+Tipo de servicio: premium 
+Costo total: 5400 
+Recomendación: Gran evento, ¡a disfrutar se ha dicho! ＼(＾▽＾)／ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 04:20:21
+Presupuesto: 8000 
+Cantidad de adultos: 12 
+Cantidad de niños: 7 
+Costo por adulto: 55 
+Costo por niño: 54 
+Costo invitados: 1038 
+Costo adicional: 1400 
+Tipo de servicio: premium 
+Costo total: 3657 
+Recomendación: Evento mediano, disfruten \(￣︶￣*\)) 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 17:46:21
+Presupuesto: 5000 
+Cantidad de adultos: 12 
+Cantidad de niños: 20 
+Costo por adulto: 5 
+Costo por niño: 3 
+Costo invitados: 120 
+Costo adicional: 1900 
+Tipo de servicio: economico 
+Costo total: 2222 
+Recomendación: Evento mediano, disfruten \(￣︶￣*\)) 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 17:52:57
+Presupuesto: 1000 
+Cantidad de adultos: 10 
+Cantidad de niños: 12 
+Costo por adulto: 5 
+Costo por niño: 3 
+Costo invitados: 86 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 111.8 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 23:04:15
+Presupuesto: 1000 
+Cantidad de adultos: 0 
+Cantidad de niños: 0 
+Costo por adulto: 0 
+Costo por niño: 0 
+Costo invitados: 0 
+Costo adicional: 0 
+Tipo de servicio: estandar 
+Costo total: 0 
+Recomendación: Evento pequeño, pero traigan coca o(￣▽￣)ｄ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 28/08/2025 23:17:22
+Presupuesto: 10000 
+Cantidad de adultos: 10 
+Cantidad de niños: 5 
+Costo por adulto: 12 
+Costo por niño: 3 
+Costo invitados: 135 
+Costo adicional: 3400 
+Tipo de servicio: estandar 
+Costo total: 4595.5 
+Recomendación: Evento mediano, disfruten \(￣︶￣*\)) 
+Presupuesto suficiente: Sí
+
+Fecha de creación 31/08/2025 22:38:36
+Presupuesto: 10000 
+Cantidad de adultos: 100 
+Cantidad de niños: 50 
+Costo por adulto: 10 
+Costo por niño: 12 
+Costo invitados: 1600 
+Costo adicional: 4800 
+Tipo de servicio: premium 
+Costo total: 9600 
+Recomendación: Gran evento, ¡a disfrutar se ha dicho! ＼(＾▽＾)／ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 13/01/2026 23:48:43
+Presupuesto: 8000 
+Cantidad de adultos: 12 
+Cantidad de niños: 10 
+Costo por adulto: 20 
+Costo por niño: 50 
+Costo invitados: 740 
+Costo adicional: 4800 
+Tipo de servicio: premium 
+Costo total: 8310 
+Recomendación: Gran evento, ¡a disfrutar se ha dicho! ＼(＾▽＾)／ 
+Presupuesto suficiente: No
+
+Fecha de creación 08/03/2026 18:22:50
+Presupuesto: 12000 
+Cantidad de adultos: 40 
+Cantidad de niños: 60 
+Costo por adulto: 30 
+Costo por niño: 15 
+Costo invitados: 2100 
+Costo adicional: 3400 
+Tipo de servicio: premium 
+Costo total: 8250 
+Recomendación: Gran evento, ¡a disfrutar se ha dicho! ＼(＾▽＾)／ 
+Presupuesto suficiente: Sí
+
+Fecha de creación 08/03/2026 18:23:35
+Presupuesto: 5000 
+Cantidad de adultos: 100 
+Cantidad de niños: 150 
+Costo por adulto: 20 
+Costo por niño: 12 
+Costo invitados: 3800 
+Costo adicional: 1300 
+Tipo de servicio: economico 
+Costo total: 5610 
+Recomendación: Gran evento, ¡a disfrutar se ha dicho! ＼(＾▽＾)／ 
+Presupuesto suficiente: No
+

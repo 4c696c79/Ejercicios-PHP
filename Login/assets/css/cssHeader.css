@@ -1,0 +1,36 @@
+header {
+    position: relative;
+    background-image:
+        url(https://64.media.tumblr.com/dc0a4a354792c8f6198697291089cb7f/tumblr_mhrjlpnuzo1rrftcdo7_250.gif),
+        url(https://64.media.tumblr.com/dc0a4a354792c8f6198697291089cb7f/tumblr_mhrjlpnuzo1rrftcdo7_250.gif);
+    background-position: left center, right center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 70px 70px, 70px 70px;
+
+    align-items: center;
+    margin: 15px;
+    width: 98%;
+    height: 70px;
+    background-color: #c40000;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6), inset 0 0 20px rgba(255, 255, 255, 1);
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    transition: all .3s;
+}
+header a:hover{
+    transition: all .5s;
+    font-size: 35px;
+    
+}
+
+header img {
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+}

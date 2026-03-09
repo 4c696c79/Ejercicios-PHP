@@ -1,0 +1,28 @@
+Actividad práctica: "Crea tu propio sistema de Login en PHP"
+Objetivo:
+	Comprender cómo funciona un sistema básico de autenticación de usuarios utilizando formularios, PHP y bases de datos. 
+	Practicar el uso de funciones como password_hash(), password_verify() y sesiones en PHP.
+
+Instrucciones paso a paso:
+
+Crea la base de datos:
+	Nombre: login_db
+	Tabla: usuarios, con los campos: id, nombre, email, password.
+
+Configura la conexión a la base de datos:
+	Crea un archivo conexion.php con los datos para conectarse a MySQL usando mysqli.
+
+Desarrolla el formulario de registro:
+	Debe permitir que un nuevo usuario se registre.
+	La contraseña se debe guardar de forma segura con password_hash().
+
+Desarrolla el formulario de login:
+	El usuario debe ingresar su email y contraseña.
+	Se validará con password_verify() y se creará una sesión.
+
+Crea una página de bienvenida:
+	Solo debe poder accederse si el usuario está logueado.
+	Mostrar un mensaje personalizado con el nombre del usuario.
+
+Agrega una opción para cerrar sesión:
+	Implementa session_destroy() para cerrar la sesión y redirigir al login.

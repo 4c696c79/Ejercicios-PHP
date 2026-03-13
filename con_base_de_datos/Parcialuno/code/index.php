@@ -33,11 +33,9 @@ $link->close();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fiesta 2025</title>
-    <link rel="shortcut icon" href="../assest/img/Icon1.webp" type="image/x-icon">
-    <link id="style" rel="stylesheet" href="../assest/css/aero.css">
-    <script src="changesThemes.js">
-        console.log("HOLA");
-    </script>
+    <link rel="shortcut icon" href="assets/img/Icon1.webp" type="image/x-icon">
+    <link id="style" rel="stylesheet" href="assets/css/aero.css">
+    <script src="changesThemes.js"></script>
 </head>
 
 <body>
@@ -90,9 +88,9 @@ $link->close();
                                 <td><?php echo $fila['edad']; ?></td>
                                 <td><?php echo $fila['asistencia']; ?></td>
                                 
-                                <td><a href="edit.php?id=<?php echo $fila['id']; ?>"><img src="../assest/img/pencil-3d-icon-download-in-png-blend-fbx-gltf-file-formats--pen-write-edit-writing-drawing-school-education-pack-icons-5012893.webp" alt=""></a></td>
+                                <td><a href="edit.php?id=<?php echo $fila['id']; ?>"><img src="assets/img/pencil-3d-icon-download-in-png-blend-fbx-gltf-file-formats--pen-write-edit-writing-drawing-school-education-pack-icons-5012893.webp" alt=""></a></td>
 
-                                <td><a href="remove.php?id=<?php echo $fila['id']; ?>"><img src="../assest/img/Recycle_Bin_Empty.png" alt="trash"></a></td
+                                <td><a href="remove.php?id=<?php echo $fila['id']; ?>"><img src="assets/img/Recycle_Bin_Empty.png" alt="trash"></a></td
                                     </tr>
 
                             <?php endwhile; ?>

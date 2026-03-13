@@ -1,6 +1,6 @@
 const link = document.getElementById('style');
-const link98 = "../assest/css/98.css";
-const linkaero = "../assest/css/aero.css";
+const link98 = "assets/css/98.css";
+const linkaero = "assets/css/aero.css";
 let estilo = true;
 function themes() {
     if (estilo) {

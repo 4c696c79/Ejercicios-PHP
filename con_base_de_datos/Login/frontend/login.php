@@ -25,7 +25,7 @@
         endif?>
     <a href="index.php">Volver al Index</a>
     </form>
-    <script src="../assest/ocultar.js"></script>
+    <script src="../assets/ocultar.js"></script>
 </body>
 
 </html>

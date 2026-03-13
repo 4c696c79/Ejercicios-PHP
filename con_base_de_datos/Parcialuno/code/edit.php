@@ -58,8 +58,8 @@ if (!$invita && !isset($_POST['actualizarInvitado'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Editar invitado</title>
-    <link rel="shortcut icon" href="../assest/img/Icon1.webp" type="image/x-icon">
-    <link id="style" rel="stylesheet" href="../assest/css/aero.css">
+    <link rel="shortcut icon" href="assets/img/Icon1.webp" type="image/x-icon">
+    <link id="style" rel="stylesheet" href="assets/css/aero.css">
     <script src="changesThemes.js">console.log("HOLA");</script>
 </head>
 

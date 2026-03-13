@@ -26,7 +26,7 @@
             unset($_SESSION['mensaje']);
         } ?>
     </form>
-    <script src="../assest/ocultar.js"></script>
+    <script src="../assets/ocultar.js"></script>
 </body>
 
 </html>

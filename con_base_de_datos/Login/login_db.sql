@@ -1,4 +1,4 @@
-CREATE DATABASE login_db;
+CREATE DATABASE IF NOT EXISTS login_db;
 USE login_db;
 
 CREATE TABLE usuarios (

@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -24,8 +25,16 @@
                 <a href="login.php"><img src="https://i.imgur.com/5bClsG6.gif" alt="login" style="margin-right:30px; width:80px; height: auto;"><br>Iniciar Sesion</a><br>
             </div>
         </div>
+        <?php 
+        if (!empty($_SESSION['mensaje'])) {
+            echo "<h2 id='mensaje'>".$_SESSION['mensaje']."</h2>";
+            unset($_SESSION['mensaje']);
+        } ?>
     </div>
+    <script src="../assets/ocultar.js"></script>
+
 </body>
+
 
 
 </html>

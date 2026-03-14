@@ -1,5 +1,6 @@
 <?php
 require '../backend/bd/conexion.php';
+$confirmacion = false;
 session_start();
 $_SESSION['mensaje'] = null;
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['btnRegistrarse'])) {
@@ -19,7 +20,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['btnRegistrarse'])) {
         $resultadoSELECT = $stmtSELECT->get_result();
 
         if ($resultadoSELECT->num_rows > 0) {
-
             $mensaje = "Este usuario ya existe, inicie sesión";
         } else { #Crea el usuario
 
@@ -31,6 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['btnRegistrarse'])) {
 
             if ($stmtINSERT->execute()) {
                 $_SESSION['mensaje'] = "Ya estas Registado d=(￣▽￣*), ahora puedes iniciar sesión";
+                $confirmacion = true;
             } else {
                 $_SESSION['mensaje'] = "Error en el execute" . $stmtINSERT->error;
             }
@@ -39,7 +40,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['btnRegistrarse'])) {
         $stmtSELECT->close();
     }
 }
+if ($confirmacion) {
+   header('location:../frontend/index.php');
+}else{
+    header('location:../frontend/singup.php');
+}
 $conn->close();
-header('location:../frontend/singup.php');
 exit;
 ?>

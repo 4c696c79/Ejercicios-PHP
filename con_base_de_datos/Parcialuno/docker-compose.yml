@@ -7,17 +7,24 @@ services:
     volumes:
       - .:/var/www/html:z
     depends_on:
-      - db
+      db:
+        condition: service_healthy   # ← espera al healthcheck
 
   db:
     image: mysql:8.0
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: party        # el nombre que usás en party.sql
+      MYSQL_DATABASE: party
       MYSQL_USER: usuario
-      MYSQL_PASSWORD: pariesJAJA
+      MYSQL_PASSWORD: contrasenia
     volumes:
       - ./code/party.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:                          # ← esto es lo nuevo
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-proot"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
 
   phpmyadmin:
     image: phpmyadmin

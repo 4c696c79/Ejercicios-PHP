@@ -297,3 +297,16 @@ Costo total: 5610
 Recomendación: Gran evento, ¡a disfrutar se ha dicho! ＼(＾▽＾)／ 
 Presupuesto suficiente: No
 
+Fecha de creación 14/03/2026 15:39:02
+Presupuesto: 40000 
+Cantidad de adultos: 10 
+Cantidad de niños: 31 
+Costo por adulto: 21 
+Costo por niño: 10 
+Costo invitados: 520 
+Costo adicional: 2000 
+Tipo de servicio: premium 
+Costo total: 3780 
+Recomendación: Evento mediano, disfruten \(￣︶￣*\)) 
+Presupuesto suficiente: Sí
+

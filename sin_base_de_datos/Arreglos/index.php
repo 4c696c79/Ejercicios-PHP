@@ -21,7 +21,7 @@
         <p>Crea un arreglo indexado llamado <span>$colores con 4 colores</span>. Mostralos en una lista HTML usando foreach</p></div>
         <?php
         $coloresEspañol = ['Azul', 'Rojo', 'Verde', 'Naranja'];
-        $coloresEnglish = ['blue', 'red', 'green', 'orange'];
+        $coloresEnglish = ['blue', 'red', 'green', 'orange']; #Colores en ingle :D
         foreach ($coloresEspañol as $num => $color) {
             echo "
             <ul>
